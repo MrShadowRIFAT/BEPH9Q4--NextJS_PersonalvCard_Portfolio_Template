@@ -1,37 +1,32 @@
 # BEPH9Q4- NextJS_PersonalvCard_Portfolio_Template
 
-## Description
-
-A Next.js based personal portfolio template featuring a visually appealing and responsive personal vCard.
-
 ## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [License](#license)
 
-* [Features](#features)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
+## Description
+A Next.js template for creating a personal portfolio or one-page website with a focus on clean design and user experience.
 
 ## Features
+- Responsive, mobile-friendly design
+- Lightweight and highly performant
+- Easy customization and extensibility
+- Includes features for displaying projects, skills, experience, and contact information
 
-- Personal vCard template
-- Next.js framework
-- Responsive design
-- Easy configuration
+## Getting Started
+```bash
+npm install
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) to view the project in the browser.
 
-## Usage
-
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Start the application using `npm run dev`
-
-## Contributing
-
-Pull requests and stars are welcome.
+## Technologies Used
+- Next.js
+- Tailwind CSS
+- TypeScript
 
 ## License
-
-MIT License
-
-Copyright (c) [Year] [Author]
-
-Permitted to use this application under MIT License terms.
+Licensed under the MIT License.
